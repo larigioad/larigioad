@@ -1,5 +1,5 @@
-<h1 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hey 👋, I'm Larissa!</h1>
-<h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analyst from Brazil</h3>
+<h1 align="center">Hey 👋, I'm Larissa!</h1>
+<h3 align="center">Data Analyst from Brazil</h3>
 
 ![giphy](https://user-images.githubusercontent.com/101199376/226025642-0860f6ec-0bf3-45a4-857c-318cf97cd575.gif)
 
